@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+//hello
 public class SchereSteinPapier {
     public static void main(String[] args) {
 
